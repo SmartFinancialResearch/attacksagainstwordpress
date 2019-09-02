@@ -1,4 +1,4 @@
-# attacksagainstwordpress
+# Attacks Against Wordpress
 
 A list of attempted attacks against wordpress sites (from server logs).
 
@@ -11,3 +11,4 @@ If you have a WordPress site, you should check through traffic logs and see if t
 These attempted attacks don't even apply to every WP site they attempt to hack. They sometimes make requests to assets that don't even exist on a server. But what they're doing is finding WordPress or WordPress plugin vulnerabilities and then testing lots of WP sites to find ones with the vulnerable software.
 
 By sharing this information, I hope to help others more aware of current attacks made against WordPress sites.
+
