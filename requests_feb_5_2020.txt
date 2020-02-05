@@ -399,3 +399,9 @@ wp-login.php
 /__media__/js/netsoltrademark.php?d=
 /wp-admin/setup-config.php
 /wp-admin/admin-post.php?page=wysija_campaigns&action=themes
+/wpdemos.php
+/wp-content/plugins/wp-central/readme.txt
+/wp.php
+/pma.php
+/wp-content/plugins/iwp-client/clipboard.min.js
+/contact/
