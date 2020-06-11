@@ -1,0 +1,8 @@
+/wordpress/wp-login.php
+/test/wp-login.php
+/wp-login.php
+/do.php
+/uploads/2020/04/do.php
+/uploads/2020/03/aul.php
+/wp-content/plugins/page-flip-image-gallery/upload.php
+/wp-content/uploads/2020/05/ask.php
